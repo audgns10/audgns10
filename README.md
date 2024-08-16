@@ -1,13 +1,13 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ChoiHaeun&fontSize=70) -->
 
 <p align="center">
-  <a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/audgns10"
-    width="1000"
-    height="400"
+    width="800"
+    height="300"
   />
-</a>
+  </a>
 </a>
 </p>
 
