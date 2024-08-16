@@ -18,3 +18,17 @@
  -->
   
 <div align="center">
+
+
+```kotlin
+@Stable
+data class Profile(
+    val name = "이명훈",
+    val birthday = "2007",
+    val introduce = "개발자가 보기 쉬운 코드를 짜자",
+    val school = "광주소프트웨어마이스터고등학교",
+    val email = "s23065@gsm.hs.kr",
+    val github = "https://github.com/audgns10",
+    val team = "MSG - Team",
+)
+```
