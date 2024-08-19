@@ -21,7 +21,7 @@
 data class Profile(
     val name: String = "이명훈",
     val nickName: String = "o0뀨0o",
-    val birthday: Int = 2007,
+    val birthday: Int = 20071011,
     val major: String = "Android Developer",
     val techStack: TechStack,
     val introduce: String = "개발자가 보기 쉬운 코드를 짜자려 노력합니다",
