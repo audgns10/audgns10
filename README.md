@@ -4,9 +4,9 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/audgns10"
-    width="1000"
+    width="600"
     height="300"
-  />
+   />
   </a>
 </a>
 </p>
