@@ -1,19 +1,9 @@
-<p align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/audgns10"
-    width="600"
-    height="300"
-   />
-  </a>
-</a>
+<div align="center">
+<h1>PROFILE</h1>
+</div>
 
-<!--
-  <p align="center">
- <a href="https://github.com/chlgkdms/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=chlgkdms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a></p>
- -->
-
+<div style="text-align: left;">
+  
 ```kotlin
 data class Profile(
     val name: String = "이명훈",
@@ -33,6 +23,22 @@ data class Profile(
     )
 }
 ```
+</div>
 
+<div align=center><h1>TROPHY</h1></div>
+<div align=center>
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=audgns10)
+  
+</div><br><br>
 
+<p align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/audgns10"
+    width="600"
+    height="300"
+   />
+  </a>
+</a>
 <div align="center">
