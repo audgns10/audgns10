@@ -28,7 +28,7 @@ data class Profile(
 <div align=center><h1>STATE</h1></div>
 <div align=center>
   
-![stats](https://github-readme-stats.vercel.app/api?username=audgns10&show_icons=true) [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audgns10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/audgns)
+![stats](https://github-readme-stats.vercel.app/api?username=audgns10&show_icons=true)
   
 </div><br><br>
 
