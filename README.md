@@ -15,7 +15,6 @@ data class Profile(
     val school: String = "광주소프트웨어마이스터고등학교",
     val email: String = "s23065@gsm.hs.kr",
     val github: String = "https://github.com/audgns10",
-    val team: String = "MSG - Team"
 ) {
     data class TechStack(
         val one: String = "Kotlin",
