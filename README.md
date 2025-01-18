@@ -27,7 +27,7 @@ data class Profile(
 <div align=center><h1>STATE</h1></div>
 <div align=center>
   
-![stats](https://github-readme-stats.vercel.app/api?username=audgns10&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=audgns10&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div><br><br>
 
