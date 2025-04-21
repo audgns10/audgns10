@@ -12,7 +12,6 @@ data class Profile(
     val major: String = "Android Developer",
     val techStack: TechStack,
     val introduce: String = "프로젝트의 생산성과 성장을 목표로 합니다.",
-    val school: String = "광주소프트웨어마이스터고등학교",
     val email: String = "s23065@gsm.hs.kr",
     val github: String = "https://github.com/audgns10",
 ) {
